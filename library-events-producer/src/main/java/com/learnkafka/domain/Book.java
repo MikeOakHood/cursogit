@@ -9,6 +9,10 @@ import lombok.NoArgsConstructor;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
+/**
+ * Commit de simulacion de conflicto en master
+ * 
+ */
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
