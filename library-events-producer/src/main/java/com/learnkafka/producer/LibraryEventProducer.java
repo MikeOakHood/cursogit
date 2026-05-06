@@ -19,6 +19,11 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
+
+/**
+ * Añadido comentario para curso git, primer commit tras el inicial
+ */
+
 @Component
 @Slf4j
 public class LibraryEventProducer {
