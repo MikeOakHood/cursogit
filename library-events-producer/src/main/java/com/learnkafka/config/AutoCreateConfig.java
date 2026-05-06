@@ -11,6 +11,10 @@ import org.springframework.kafka.core.KafkaAdmin;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Para rama principal de desarrollo
+*/
+
 @Configuration
 @Profile("local")
 public class AutoCreateConfig {
