@@ -10,9 +10,17 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
 /**
+<<<<<<< HEAD
  * Commit de simulacion de conflicto en master
  * 
  */
+=======
+ * 
+ * Commit en rama para simular conflicto
+ * 
+ */
+
+>>>>>>> desarrollo1
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
