@@ -14,12 +14,17 @@ import java.util.Map;
 /**
  * Para rama principal de desarrollo
  * 
- * Nuevo cambio en rama desarrollo1
+ * primer cambio en rama desarrollo1
 */
 
 @Configuration
 @Profile("local")
 public class AutoCreateConfig {
+
+    /**
+     * 2º cmabio en rama desarrollo1 
+     * 
+     */
 
     @Bean
     public NewTopic libraryEvents(){
