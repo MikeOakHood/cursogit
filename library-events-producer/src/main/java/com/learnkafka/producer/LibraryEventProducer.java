@@ -20,8 +20,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 
 
-
-/creamos un errorDDD
+// Hemos corregido el error de main en la rama
 
 /**
  * Añadido comentario para curso git, primer commit tras el inicial
